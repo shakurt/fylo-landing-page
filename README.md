@@ -4,4 +4,4 @@
 +  __Flex__
 +  __Transition__
 ___
-You can see website for __live__ [__HERE__](https://shakstick.github.io/fylo-landing-page/)
+You can see website for __live__ [__HERE__](https://shakurt.github.io/fylo-landing-page/)
